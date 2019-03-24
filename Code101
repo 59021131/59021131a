@@ -9,8 +9,8 @@
     </head>
     <body>
         <form id="myForm">
-            <input type="text" name="fname" value="Kanokwatt" onkeyup="showDetail()">
-            <input type="submit" value="Send">
+            <input type="text" name="fname" value="Surawat" onkeyup="showDetail()">
+            <input type="submit" value="Enter">
         </form>
         <button onclick="showDetail()">Show Detail</button>
 
